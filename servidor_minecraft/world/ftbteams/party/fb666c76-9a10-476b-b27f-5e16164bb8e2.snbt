@@ -1,0 +1,26 @@
+{
+	id: "fb666c76-9a10-476b-b27f-5e16164bb8e2"
+	type: "party"
+	owner: "3da5dce1-9c66-499c-b49f-b8fa81e8f381"
+	ranks: {
+		3da5dce1-9c66-499c-b49f-b8fa81e8f381: "owner"
+		3a234236-41b1-4680-9adb-24289f3a3fae: "member"
+		ab8376b5-3cf1-4527-8f58-cd088db2d775: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "sexito 2"
+		"ftbteams:description": "7"
+		"ftbteams:color": "#59FF8F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722922903489L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Zm0kes\"}]}" }
+		{ from: "3da5dce1-9c66-499c-b49f-b8fa81e8f381", date: 1722922903510L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tekkyo08\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722922911538L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tekkyo08\"}]}" }
+		{ from: "3da5dce1-9c66-499c-b49f-b8fa81e8f381", date: 1723268901339L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Darka0201\"}]}" }
+		{ from: "3da5dce1-9c66-499c-b49f-b8fa81e8f381", date: 1723270353070L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Darka0201\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1723270355320L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Darka0201\"}]}" }
+	]
+	extra: { }
+}

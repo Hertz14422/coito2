@@ -1,0 +1,15 @@
+{
+	id: "ab8376b5-3cf1-4527-8f58-cd088db2d775"
+	type: "player"
+	player_name: "Darka0201"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Darka0201"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5969FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

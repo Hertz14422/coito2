@@ -1,0 +1,183 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.cake]
+
+		[types.cake.simplefarming]
+			chocolate_cake = true
+			sprinkle_cake = true
+			cheese_wheel = true
+
+	[types.wood_type]
+
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.botania]
+			livingwood = true
+			dreamwood = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.iceandfire]
+			dreadwood = true
+
+		[types.wood_type.primalmagick]
+			sunwood = true
+			moonwood = true
+			hallowood = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.endlessbiomes]
+			penumbra = true
+			twisted = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.primalmagick]
+			hallowood = true
+
+		[types.leaves_type.simplefarming]
+			apple = true
+			apricot = true
+			banana = true
+			cherry = true
+			mango = true
+			olive = true
+			orange = true
+			pear = true
+			plum = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.paganbless]
+			black_thorn = true
+
+		[types.leaves_type.endlessbiomes]
+			penumbral = true
+			glowing_penumbral = true
+
+		[types.leaves_type.biomesoplenty]
+			origin = true
+			flowering_oak = true
+			maple = true
+			orange_autumn = true
+			yellow_autumn = true
+			rainbow_birch = true
+			snowblossom = true
+			fir = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			flower_box = true
+			shelf = true
+			drawer = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
